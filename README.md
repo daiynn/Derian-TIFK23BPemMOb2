@@ -1,16 +1,17 @@
-# tugasku
+# CRUD LOCAL STORAGE
 
-A new Flutter project.
+Nama : Derian
 
-## Getting Started
+NIM : 23552011114
 
-This project is a starting point for a Flutter application.
+Kelas : TIF K23B
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+tema aplikasi :
+ catatan tugas harian
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Gambar aplikasi :
+
+ 
+
+![WhatsApp Image 2026-01-17 at 19 19 57](https://github.com/user-attachments/assets/e7764129-fba2-4a68-a2b4-bd1408b871b3)
